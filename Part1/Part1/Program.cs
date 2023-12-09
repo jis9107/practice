@@ -1,0 +1,18 @@
+﻿using System;
+
+
+namespace Part1
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello ");
+            Console.WriteLine("World!");
+
+            string name = Console.ReadLine();
+            Console.Write(name);
+            Console.WriteLine("님 안녕하세요!");
+        }
+    }
+}
