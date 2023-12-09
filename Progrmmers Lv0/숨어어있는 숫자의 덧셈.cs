@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Text.RegularExpressions;
 
-public class Solution
+class Solution
 {
     public int solution(string my_string)
     {

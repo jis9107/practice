@@ -43,7 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="문자열 정리하기%281%29.cs" />
+    <Compile Include="최댓값 만들기%282%29.cs" />
+    <Compile Include="대문자와 소문자.cs" />
+    <Compile Include="숨어어있는 숫자의 덧셈.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
