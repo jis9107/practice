@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="숫자 찾기.cs" />
     <Compile Include="외계 행성의 나이.cs" />
     <Compile Include="문자열 정리하기%281%29.cs" />
     <Compile Include="최댓값 만들기%282%29.cs" />
