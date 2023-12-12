@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{369066BD-B4D3-4235-A00D-43800A127A58}</ProjectGuid>
+    <ProjectGuid>{C69BDA42-ECA8-41A1-97A4-9D274E3DADAB}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Progrmmers_Lv0</RootNamespace>
-    <AssemblyName>Progrmmers Lv0</AssemblyName>
+    <RootNamespace>_001_HelloWorld</RootNamespace>
+    <AssemblyName>001_HelloWorld</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,17 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="2차원 배열만들기.cs" />
-    <Compile Include="A로 B만들기.cs" />
-    <Compile Include="모스부호%281%29.cs" />
-    <Compile Include="팩토리얼.cs" />
-    <Compile Include="합성수 찾기.cs" />
-    <Compile Include="숫자 찾기.cs" />
-    <Compile Include="외계 행성의 나이.cs" />
-    <Compile Include="문자열 정리하기%281%29.cs" />
-    <Compile Include="최댓값 만들기%282%29.cs" />
-    <Compile Include="대문자와 소문자.cs" />
-    <Compile Include="숨어어있는 숫자의 덧셈.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
