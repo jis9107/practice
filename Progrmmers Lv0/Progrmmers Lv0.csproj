@@ -45,6 +45,21 @@
   <ItemGroup>
     <Compile Include="2차원 배열만들기.cs" />
     <Compile Include="A로 B만들기.cs" />
+    <Compile Include="주사위 게임.cs" />
+    <Compile Include="할 일 목록.cs" />
+    <Compile Include="배열 비교하기.cs" />
+    <Compile Include="조건에 맞게 수열 변환하기%283%29.cs" />
+    <Compile Include="문자열 정수의 합.cs" />
+    <Compile Include="뒤에서 5등 위로.cs" />
+    <Compile Include="배열 만들기%281%29.cs" />
+    <Compile Include="글자 이어 붙이기.cs" />
+    <Compile Include="꼬리 문자열.cs" />
+    <Compile Include="n번째 요소부터.cs" />
+    <Compile Include="부분문자열 찾기.cs" />
+    <Compile Include="소문자로 바꾸기.cs" />
+    <Compile Include="조건에 맞게 수열 변화하기%281%29.cs" />
+    <Compile Include="특정한 문자를 대문자로 바꾸기.cs" />
+    <Compile Include="정수 찾기.cs" />
     <Compile Include="공 던지기.cs" />
     <Compile Include="직사각형 넓이 구하기.cs" />
     <Compile Include="모스부호%281%29.cs" />
