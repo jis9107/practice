@@ -45,6 +45,8 @@
   <ItemGroup>
     <Compile Include="2차원 배열만들기.cs" />
     <Compile Include="A로 B만들기.cs" />
+    <Compile Include="공 던지기.cs" />
+    <Compile Include="직사각형 넓이 구하기.cs" />
     <Compile Include="모스부호%281%29.cs" />
     <Compile Include="팩토리얼.cs" />
     <Compile Include="합성수 찾기.cs" />
