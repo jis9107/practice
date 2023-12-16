@@ -1,0 +1,6 @@
+C:\Users\ghdwl\Documents\GitHub\practice\C#\DDazua\001_HelloWorld\bin\Debug\001_HelloWorld.exe.config
+C:\Users\ghdwl\Documents\GitHub\practice\C#\DDazua\001_HelloWorld\bin\Debug\001_HelloWorld.exe
+C:\Users\ghdwl\Documents\GitHub\practice\C#\DDazua\001_HelloWorld\bin\Debug\001_HelloWorld.pdb
+C:\Users\ghdwl\Documents\GitHub\practice\C#\DDazua\001_HelloWorld\obj\Debug\001_HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\ghdwl\Documents\GitHub\practice\C#\DDazua\001_HelloWorld\obj\Debug\001_HelloWorld.exe
+C:\Users\ghdwl\Documents\GitHub\practice\C#\DDazua\001_HelloWorld\obj\Debug\001_HelloWorld.pdb
